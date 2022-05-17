@@ -1,0 +1,22 @@
+.main-menu{
+	background: black;
+}
+.h-100-vw{
+	min-height: 100vh;
+}
+.main-menu ul{
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+}
+.main-menu ul li{
+	border-bottom: 1px solid #fff;
+	padding: .5rem 0;
+}
+.main-menu ul li:first-child{
+	border-top: 1px solid #fff;
+}
+.main-menu ul li a{
+	color: #fff;
+	font-size: 1.1rem;
+}
